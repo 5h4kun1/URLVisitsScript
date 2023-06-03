@@ -43,5 +43,5 @@ Whether you want to test the responsiveness of a website, analyze its behavior u
 
 You can customize the handling of the response according to your needs. For example, you might want to analyze the response content, headers, or perform additional operations based on the response status code.
 
-Remember to update the README.md file in your repository to reflect the changes and provide the updated usage instructions.
+use chmod +x bash.file to give the executable running permission
 
